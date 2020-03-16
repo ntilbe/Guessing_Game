@@ -1,0 +1,5 @@
+﻿  Guessing_Game.cpp
+C:\Users\User\source\repos\ntilbe\test\Guessing_Game\Guessing_Game\Guessing_Game.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ntilbe\test\Guessing_Game\Guessing_Game\Guessing_Game.cpp(53,21): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\source\repos\ntilbe\test\Guessing_Game\Guessing_Game\Guessing_Game.cpp(77,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Guessing_Game.vcxproj -> C:\Users\User\source\repos\ntilbe\test\Guessing_Game\Debug\Guessing_Game.exe
